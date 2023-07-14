@@ -1,1 +1,1 @@
-First C program
+C is fun
