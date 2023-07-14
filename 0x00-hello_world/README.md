@@ -1,1 +1,1 @@
-C is fun
+This a c readme file
